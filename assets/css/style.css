@@ -340,6 +340,15 @@ p {
   line-height: 180%;
 }
 
+.q-4 {
+  color: #000;
+  font-family: Poppins;
+  font-size: var(--fs-xl);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
 .position-a {
   position: absolute;
   top: 72%;
